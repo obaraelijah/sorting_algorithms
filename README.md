@@ -1,4 +1,4 @@
-Sorting algorithms project
-**Authors
+Sorting algorithms projec
+##Authors
 Elijah obara samson
 Joseph Thuku
