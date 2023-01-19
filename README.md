@@ -1,4 +1,4 @@
 Sorting algorithms project <br>
-**Authors**
+**Authors** <br>
 Elijah obara samson
 Joseph Thuku
